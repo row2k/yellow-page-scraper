@@ -2,10 +2,10 @@
 #### This is a minimal functional python scraper for `yellowpages.com` created for fair-use.
 ---
 it uses:
-*lxml
-*requests
-*pandas
-**time & random
+- lxml
+- requests
+- pandas
+- time & random
 
 
 Copyright (c) 2016 Rowland Zhang
