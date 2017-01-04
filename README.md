@@ -8,4 +8,4 @@ it uses:
 - time & random
 
 ---
-######License: The MIT License (MIT), Copyright (c) 2016 Rowland Zhang
+######License: The MIT License (MIT)
